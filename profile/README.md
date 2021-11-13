@@ -10,7 +10,7 @@ Nájdete tu rôzne open-source projekty, taktiež aj väčšinu našich plánov 
 
 Sme slovenský Minecraft server a tím ľudí zameraný na kvalitu a spokojnosť hráčov s rôznymi hernými módami ako napríklad Oneblock, kde je vlastný balíček textúr a modelov, alebo mnohé originálne módy ako napríklad Border Wars & Fly Fight.
 
-Pripojiť sa na server môžeš cez verziu 1.8.x-1.17.x cez adresu `mc.lendmark.sk`. Tešíme sa na teba! ☺️
+Pripojiť sa na server môžeš cez verziu 1.8.x-1.17.x cez adresu `mc.lendamrk.sk`. Tešíme sa na teba! ☺️
 
 ## 🌹 Sleduj nás
 
