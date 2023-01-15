@@ -1,4 +1,5 @@
-## Vitaj na LendMarku!
+## Welcome to LendMark's Github organisation!
 
-Sme slovenský Minecraft server a tím ľudí zameraný na kvalitu a spokojnosť hráčov so silnou komunitou a rôznymi originálnymi hernými módami.
-Nájdete tu rôzne open-source projekty a kód ktorý používame na LM, taktiež aj väčšinu našich plánov včetne bugov atď...
+We are a Czech-Slovak Minecraft server network and a team of people focused on quality and player satisfaction with a strong community and a variety of original game modes! If you are tired of classic Oneblock, PvP or other low quality servers that copy each other, we are here for you!
+
+Here you will find some of our open-source repositories with code we use on our network, as well as bug reports, our plans for the future and more!
