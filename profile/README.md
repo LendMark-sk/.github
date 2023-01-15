@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/LendMarkNetwork/.github/blob/main/profile/lendmark_full_logo.png?raw=true" alt="LendLobby" width="448">
+  <img src="https://github.com/LendMarkNetwork/.github/blob/main/profile/lendmark_full_logo.png?raw=true" alt="LendLobby" width="400">
   <br>
   <p align="left">Welcome to LendMark's Github organisation!</p>
 </h1>
